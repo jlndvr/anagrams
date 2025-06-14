@@ -4,7 +4,7 @@
 /*
 Is it an anagram?
 String y is an anagram of string x if y is a rearrangement of string x. This implies that y and x have the same letters with the same amount of each letter. Example: “code” and “deco” are anagrams!
-
+Pretty much if 2 words have the same letters it == anagram
 Rules: We can only use 'a' 'b' 'c' 'd'
 */
 
